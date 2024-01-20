@@ -1,10 +1,6 @@
-@media (prefers-color-scheme: dark)body{
+ body{
 background-color: #272627
-
+text-color: white
 }
 
-@media (prefers-color-scheme: light)body{
-background-color: #ffffff
 
-
-}
