@@ -1,1 +1,3 @@
-# lucydevdesign.github.io
+---
+permalink: /index.html
+---
