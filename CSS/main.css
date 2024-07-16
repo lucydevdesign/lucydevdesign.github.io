@@ -1,7 +1,38 @@
+@font-face
+{
+	font-family: "IBMCGA";
+	src:url("../FONTS/Web437_IBM_CGA.woff")
+}
+
+
 body{
-    background-color: grey;
+	background-color: #17153B;
 }
 
 h1{
-color: white;
+	color: ;
+}
+
+ul.navbar{
+	list-style-type: none;
+	background-color: #2E236C ;
+	padding: 50px 25px 50px 25px;
+	text-align: center;
+	
+}
+
+li.nv{
+	display: inline;
+	color: white;
+	font-family:"IBMCGA";
+	text-shadow: 4px 2px #000000;
+	padding: 25px 25px 25px 25px;
+}
+
+li.nv:hover{
+	display: inline;
+	color: red;
+	font-family:"IBMCGA";
+	text-shadow: 4px 2px #000000;
+	padding: 25px 25px 25px 25px;
 }
