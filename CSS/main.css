@@ -4,6 +4,11 @@
 	src:url("../FONTS/Web437_IBM_CGA.woff")
 }
 
+@font-face
+{
+	font-family: "AUDIONUGGET";
+	src:url("../FONTS/AudioNugget.ttf")
+}
 
 
 img.banner{
@@ -16,20 +21,39 @@ img.banner{
 }
 
 body{
-	background-color: #17153B;
+	background-image: url("https://res.cloudinary.com/dteak3qsn/image/upload/v1721158497/synthwave_m3d4s8.png");
+	width:100%;
+	height:100%;
 }
 
 h1{
-	color: ;
+	text-align: center;
+	
+	color: white;
+	font-family:"AUDIONUGGET";
+	text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+	padding: 25px 25px 25px 25px;
+	width:100%;
+	transition: 0.3s
 }
 
 ul.navbar{
+	
 	list-style-type: none;
 	background-color: #2E236C ;
-	padding: 50px 25px 50px 25px;
+	padding: 50px 25px 50px 0px;
 	text-align: center;
+	float: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 5px #000000;
+	border-radius: 25px;
+	width: 75%;
 	
 }
+
+
 
 li.nv{
 	display: inline;
@@ -37,6 +61,7 @@ li.nv{
 	font-family:"IBMCGA";
 	text-shadow: 4px 2px #000000;
 	padding: 25px 25px 25px 25px;
+	transition: 0.3s;
 }
 
 li.nv:hover{
@@ -45,4 +70,7 @@ li.nv:hover{
 	font-family:"IBMCGA";
 	text-shadow: 4px 2px #000000;
 	padding: 25px 25px 25px 25px;
+	transition: 0.3s;
 }
+
+
