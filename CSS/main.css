@@ -56,11 +56,11 @@ ul.navbar{
 	text-align: center;
 	float: center;
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 20%;
+	margin-right: 20%;
 	box-shadow: 5px 5px #000000;
 	border-radius: 25px;
-	width: 75%;
+	width: auto;
 	
 }
 
@@ -72,6 +72,7 @@ li.nv{
 	font-family:"IBMCGA";
 	text-shadow: 4px 2px #000000;
 	padding: 25px 25px 25px 25px;
+	width: auto;
 	transition: 0.3s;
 }
 
