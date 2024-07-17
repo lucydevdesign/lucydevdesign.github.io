@@ -55,6 +55,8 @@ ul.navbar{
 	padding: 40px 25px 40px 25px;
 	text-align: center;
 	display: block;
+	margin-left: 10%;
+	margin-right: 10%;
 	box-shadow: 5px 5px #000000;
 	border-radius: 25px;
 	width: auto;
