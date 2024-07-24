@@ -133,6 +133,11 @@ margin: none;
 
 }
 
+footer{
+	color: white;
+	font-family:"IBMCGA";
+	text-align:center;
+}
 
 @media only screen and (min-width: 1280px) {
 
