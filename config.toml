@@ -1,0 +1,4 @@
+baseURL = 'https://lucydevdesign.github.io/'
+languageCode = 'en-us'
+title = 'Lucydevdesign'
+theme = 'barcadia'
