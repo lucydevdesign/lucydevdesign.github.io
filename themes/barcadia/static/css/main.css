@@ -37,7 +37,7 @@ body{
 	height:100%;
 }
 
-h1{
+h1.logo{
 	text-align: center;
 	
 	color: white;
@@ -122,11 +122,13 @@ margin: none;
 .contentbox
 {
 	background-color: #2E236C ;
-	padding: 5% 0 5% 0;
+	padding: 5%;
 	text-align: center;
 	display: block;
 	margin: 5%;
-	
+	color: white;
+	font-size: 8px;
+	font-family:"IBMCGA";
 	box-shadow: 5px 5px #000000;
 	border-radius: 25px;
 	width: auto;
