@@ -1,6 +1,8 @@
 # welcome!
 Hi my name is lucy and welcome to my personal website.
 
+my pronouns are she/her and I am a proud member of the LGBTQ+ community!
+
 This site acts as my personal portfolio and a blog of my life including projects
 I am currently working on. 
 
