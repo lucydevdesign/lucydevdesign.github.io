@@ -16,7 +16,7 @@ section of this website fully functional!
  cannot access medicine like Adderall, is always worth a shot if you don't have any conditions that make it a no-go
  caffeine is something that has the potential to help like it has for me.
  
- **P.S. Never drink more than 2 caffinated drinks a day as it's not good for your body when you have too much**
+ **P.S. Never drink more than 2 caffeinated drinks a day as it's not good for your body when you have too much**
  
 
  
