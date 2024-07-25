@@ -9,11 +9,18 @@
 				
 				
 				<div class="contentcolumnmain">
-					<div class="contentbox">
-						{{ range .Pages }}
-						<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-						{{ end }}
-					</div>
+					
+		{{ range .Site.RegularPages }}
+		<div class="contentbox">
+  <h1>
+		{{ .LinkTitle }} 
+		<span class="right"> {{ .Date | time.Format ":date_medium"}} </span> 
+		
+  </h1>
+  <p>{{ .Content }}</p>
+  </div>	
+{{ end }}
+					
 				</div>
 				
 				<div class="contentcolumnside">

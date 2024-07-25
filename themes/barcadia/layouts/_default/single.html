@@ -1,3 +1,5 @@
 {{ partial "header.html" . }}
-<div class="contentbox">{{ .Title }}<br><br>{{ .Content }} </div>
+<div class="contentbox">
+	<h1>{{ .Title }} </h1>
+	 <h3> {{ .Date | time.Format ":date_medium" }} </h3><br><br>{{ .Content }} </div>
 {{ partial "footer.html" . }}
