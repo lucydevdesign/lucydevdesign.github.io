@@ -178,7 +178,7 @@ li.nv:hover{
 	display: inline;
 	color: red;
 	font-family:"navfont";
-	font-size: 1%;
+	font-size: 110%;
 	text-shadow: 4px 2px #000000;
 	padding: 25px 25px 25px 25px;
 	transition: 0.3s;
