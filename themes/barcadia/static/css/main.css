@@ -130,7 +130,7 @@ margin: none;
 {
 	background-color: #2E236C ;
 	padding: 5%;
-	text-align: center;
+	text-align: justify;
 	display: block;
 	margin: 5%;
 	color: white;
@@ -149,7 +149,7 @@ footer{
 	color: white;
 	font-family:"navfont";
 	text-shadow: 2px 2px #000000;
-	font-size: 15%;
+	font-size: 25%;
 	text-align:center;
 }
 
