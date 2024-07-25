@@ -14,7 +14,7 @@
 		<div class="contentbox">
   <h1>
 		{{ .LinkTitle }} 
-		<span class="right"> {{ .Date | time.Format ":date_medium"}} </span> 
+		<span class="right"> {{ .Date | time.Format ":date_medium"}} {{.Date | time.Format ":time_short" }} </span> 
 		
   </h1>
   <p>{{ .Content }}</p>

@@ -1,6 +1,6 @@
 +++
 title = 'Blog is Working!'
-date = 2024-07-25
+date = 2024-07-25T17:30:07
 draft = false
 +++
 
