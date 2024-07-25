@@ -10,7 +10,9 @@
 				
 				<div class="contentcolumnmain">
 					<div class="contentbox">
-					<h1>recent pages goes here</h1>
+						{{ range .Site.RegularPages }}
+						<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+						{{ end }}
 					</div>
 				</div>
 				
