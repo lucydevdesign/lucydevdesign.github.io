@@ -1,13 +1,20 @@
-@font-face
-{
-	font-family: "IBMCGA";
-	src:url("../fonts/Web437_IBM_CGA.woff")
-}
 
 @font-face
 {
 	font-family: "AUDIONUGGET";
 	src:url("../fonts/AudioNugget.ttf")
+}
+
+@font-face
+{
+	font-family: "navfont";
+	src:url("../fonts/sofachrome rg.otf")
+}
+
+@font-face
+{
+	font-family: "main";
+	src:url("../fonts/Roboto-Regular.ttf")
 }
 
 html
@@ -68,8 +75,8 @@ ul.navbar{
 li.nv{
 	display: inline;
 	color: white;
-	font-family:"IBMCGA";
-	font-size: 75%;
+	font-family:"navfont";
+	font-size: 60%;
 	text-shadow: 4px 2px #000000;
 	padding: 25px 25px 25px 25px;
 	
@@ -79,7 +86,7 @@ li.nv{
 li.nv:hover{
 	display: inline;
 	color: red;
-	font-family:"IBMCGA";
+	font-family:"navfont";
 	font-size: 75%;
 	text-shadow: 4px 2px #000000;
 	padding: 25px 25px 25px 25px;
@@ -127,8 +134,10 @@ margin: none;
 	display: block;
 	margin: 5%;
 	color: white;
-	font-size: 8px;
-	font-family:"IBMCGA";
+	font-size: 12px;
+	text-shadow: 4px 2px #000000;
+	line-height: 13px;
+	font-family: "main";
 	box-shadow: 5px 5px #000000;
 	border-radius: 25px;
 	width: auto;
@@ -138,7 +147,9 @@ margin: none;
 
 footer{
 	color: white;
-	font-family:"IBMCGA";
+	font-family:"navfont";
+	text-shadow: 2px 2px #000000;
+	font-size: 15%;
 	text-align:center;
 }
 
@@ -155,7 +166,7 @@ footer{
  li.nv{
 	display: inline;
 	color: white;
-	font-family:"IBMCGA";
+	font-family:"navfont";
 	font-size: 100%;
 	text-shadow: 4px 2px #000000;
 	padding: 25px 25px 25px 25px;
@@ -166,8 +177,8 @@ footer{
 li.nv:hover{
 	display: inline;
 	color: red;
-	font-family:"IBMCGA";
-	font-size: 100%;
+	font-family:"navfont";
+	font-size: 1%;
 	text-shadow: 4px 2px #000000;
 	padding: 25px 25px 25px 25px;
 	transition: 0.3s;
