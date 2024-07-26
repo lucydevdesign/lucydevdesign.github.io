@@ -172,8 +172,19 @@ h1
 	font-size: 1.6em;
 }
 
+@media only screen and (max-width: 900px){
+.contentrow {
+	display: block;
+	
+	margin-left: 5%;
+	margin-right: 5%;
+  
+}
+}
 
 @media only screen and (min-width: 1280px) {
+
+
 
 .contentrow {
 	display: flex;
