@@ -195,7 +195,7 @@ h1
 	}
 	
 	li.nv{
-	display: inline;
+	display: inline-block;
 	color: white;
 	font-family:"navfont";
 	font-size: 60%;
