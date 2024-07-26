@@ -209,7 +209,16 @@ h1
 
 @media only screen and (min-width: 1280px) {
 
-
+body{
+	background-image: url("https://res.cloudinary.com/dteak3qsn/image/upload/v1721168331/synthwave_tuudpa.png");
+	background-size:cover; 
+	background-position:  center;
+	background-repeat: no-repeat;
+	background-attachment: scroll ;
+	background-color: #251449;
+	
+	height:100%;
+}
 
 .contentrow {
 	display: flex;
