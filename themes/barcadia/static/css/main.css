@@ -173,13 +173,38 @@ h1
 }
 
 @media only screen and (max-width: 1000px){
-.contentrow {
-	display: block;
+	.contentrow {
+		display: block;
+		
+		margin-left: 5%;
+		margin-right: 5%;
+		}
+	ul.navbar{
 	
-	margin-left: 5%;
-	margin-right: 5%;
-  
+	list-style-type: none;
+	background-color: #2E236C ;
+	padding: 40px 25px 40px 25px;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 5px #000000;
+	border-radius: 25px;
+	width: 75%;
+	
+	}
+	
+	li.nv{
+	display: inline;
+	color: white;
+	font-family:"navfont";
+	font-size: 60%;
+	text-shadow: 4px 2px #000000;
+	padding: 25px 25px 25px 25px;
+	
+	transition: 0.3s;
 }
+
 }
 
 @media only screen and (min-width: 1280px) {
