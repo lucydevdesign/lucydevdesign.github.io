@@ -11,9 +11,9 @@ section of this website fully functional!
  is such a relief to actually be able to say I've acomplished a nice milestone in my tech
  endeavours thanks to the power of caffeine!
  
- Of course if you have access to ADHD medicine it is obviously a much better option but
+ if you have access to ADHD medicine it is obviously a much better option. But
  in my personal experience if you're currently struggling  and
- cannot access medicine like Adderall, is always worth a shot if you don't have any conditions that make it a no-go
+ cannot access medicine like Adderall, it's always worth a shot if you don't have any conditions that make it a no-go. 
  caffeine is something that has the potential to help like it has for me.
  
  **P.S. Never drink more than 2 caffeinated drinks a day as it's not good for your body when you have too much**
