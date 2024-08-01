@@ -1,11 +1,11 @@
 +++
 title = 'Life is like a video game'
-date = 2024-08-21 T18:39:07 
+date = 2024-08-21T18:39:07 
 draft = false
 +++
 
 On august 12 2024 I will have been on this planet for 27 years, I felt like I hadn't done
-much with the precious time on here and felt like i was counting down the years. For those
+much with the precious time on here and felt like i was counting down the years in my quarter life crisis. For those
 of you struggling with those kinds of thoughts I urge you not to feel sad or depressed. 
 
 you've been blessed with the gift of life and I will tell you now the secret to not worrying.
