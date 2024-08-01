@@ -8,7 +8,7 @@ After a few nights and many powdered energy drinks later, I have finally managed
 section of this website fully functional!
 
  after struggling with my ADHD not being able to get anything done for such a long time, it 
- is such a relief to actually be able to say I've acomplished a nice milestone in my tech
+ is such a relief to actually be able to say I've accomplished a nice milestone in my tech
  endeavours thanks to the power of caffeine!
  
  if you have access to ADHD medicine it is obviously a much better option. But
