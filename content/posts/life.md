@@ -1,8 +1,9 @@
 +++
 title = 'Life is like a video game'
-date = 2024-08-21T18:39:00 
+date = 2024-08-01T15:39:07
 draft = false
 +++
+
 
 On august 12 2024 I will have been on this planet for 27 years, I felt like I hadn't done
 much with the precious time on here and felt like i was counting down the years in my quarter life crisis. For those
