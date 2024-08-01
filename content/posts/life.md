@@ -1,6 +1,6 @@
 +++
 title = 'Life is like a video game'
-date = 2024-08-21T18:39:07 
+date = 2024-08-21T18:39:00 
 draft = false
 +++
 
