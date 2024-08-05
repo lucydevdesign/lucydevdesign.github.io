@@ -155,6 +155,24 @@ margin: none;
 
 }
 
+
+.singlecontentbox
+{
+    background-color: #2E236C ;
+	padding: 5%;
+	text-align: justify;
+	display: block;
+	margin: 5%;
+	color: white;
+	text-shadow: 1px 1px #000000;
+	vertical-align: top;
+	font-family: "main";
+	box-shadow: 5px 5px #000000;
+	border-radius: 25px;
+	width: 75%;
+	
+}
+
 footer{
 	color: white;
 	font-family:"navfont";
@@ -214,7 +232,7 @@ body{
 	background-size:cover; 
 	background-position:  center;
 	background-repeat: no-repeat;
-	background-attachment: scroll ;
+	background-attachment: fixed ;
 	background-color: #251449;
 	
 	height:100%;
