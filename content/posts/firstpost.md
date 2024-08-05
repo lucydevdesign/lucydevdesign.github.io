@@ -2,6 +2,7 @@
 title = 'Blog is Working!'
 date = 2024-07-25T17:30:07
 draft = false
+type = "post"
 +++
 
 After a few nights and many powdered energy drinks later, I have finally managed to get the blog

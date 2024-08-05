@@ -1,8 +1,7 @@
 <h1 class="logo">LUCYDEVDESIGN</h1>
 			<ul class="navbar">
 				<li class="nv"><a href="https://lucydevdesign.github.io/">HOME</a></li>
-				<li class="nv"><a href="#">VIDEOS</a></li>
-				<li class="nv"><a href="#">PROJECTS</a></li>
-				<li class="nv"><a href="#">GALLERY</a></li>
-				<li class="nv"><a href="#">CONTACT ME</a></li>
+				{{- range site.Menus.main }}
+<li class="nv"><a href="{{ .URL }}">{{ .Name }}</li>
+                {{ end }}
 			</ul>

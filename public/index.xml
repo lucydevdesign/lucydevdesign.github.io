@@ -2,27 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucydevdesign</title>
-    <link>https://lucydevdesign.github.io/</link>
+    <link>https://lucydevdesign.com/</link>
     <description>Recent content on Lucydevdesign</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 15:39:07 +0000</lastBuildDate><atom:link href="https://lucydevdesign.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Aug 2024 15:39:07 +0000</lastBuildDate><atom:link href="https://lucydevdesign.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://lucydevdesign.com/contact/</link>
+      <pubDate>Mon, 05 Aug 2024 12:03:19 +0100</pubDate>
+      
+      <guid>https://lucydevdesign.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://lucydevdesign.com/gallery/</link>
+      <pubDate>Mon, 05 Aug 2024 12:03:09 +0100</pubDate>
+      
+      <guid>https://lucydevdesign.com/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://lucydevdesign.com/projects/</link>
+      <pubDate>Mon, 05 Aug 2024 12:02:38 +0100</pubDate>
+      
+      <guid>https://lucydevdesign.com/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>https://lucydevdesign.com/videos/</link>
+      <pubDate>Sat, 03 Aug 2024 10:33:24 +0100</pubDate>
+      
+      <guid>https://lucydevdesign.com/videos/</guid>
+      <description>test </description>
+    </item>
+    
     <item>
       <title>Life is like a video game</title>
-      <link>https://lucydevdesign.github.io/posts/life/</link>
+      <link>https://lucydevdesign.com/posts/life/</link>
       <pubDate>Thu, 01 Aug 2024 15:39:07 +0000</pubDate>
       
-      <guid>https://lucydevdesign.github.io/posts/life/</guid>
+      <guid>https://lucydevdesign.com/posts/life/</guid>
       <description>On august 12 2024 I will have been on this planet for 27 years, I felt like I hadn&amp;rsquo;t done much with the precious time on here and felt like i was counting down the years in my quarter life crisis. For those of you struggling with those kinds of thoughts I urge you not to feel sad or depressed.
 you&amp;rsquo;ve been blessed with the gift of life and I will tell you now the secret to not worrying.</description>
     </item>
     
     <item>
       <title>Blog is Working!</title>
-      <link>https://lucydevdesign.github.io/posts/firstpost/</link>
+      <link>https://lucydevdesign.com/posts/firstpost/</link>
       <pubDate>Thu, 25 Jul 2024 17:30:07 +0000</pubDate>
       
-      <guid>https://lucydevdesign.github.io/posts/firstpost/</guid>
+      <guid>https://lucydevdesign.com/posts/firstpost/</guid>
       <description>After a few nights and many powdered energy drinks later, I have finally managed to get the blog section of this website fully functional!
 after struggling with my ADHD not being able to get anything done for such a long time, it is such a relief to actually be able to say I&amp;rsquo;ve accomplished a nice milestone in my tech endeavours thanks to the power of caffeine!
 if you have access to ADHD medicine it is obviously a much better option.</description>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lucydevdesign</title>
-    <link>https://lucydevdesign.github.io/categories/</link>
+    <link>https://lucydevdesign.com/categories/</link>
     <description>Recent content in Categories on Lucydevdesign</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lucydevdesign.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://lucydevdesign.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

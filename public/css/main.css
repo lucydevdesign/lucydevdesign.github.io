@@ -26,14 +26,17 @@ overflow-x: hidden;
 
 .right{
 	float: right;
+	text-align:right;
 }
 
 .center{
 	float: center;
+	text-align:center;
 }
 
 .left{
 	float: left;
+	text-align:left;
 }
 img.banner{
 
@@ -160,7 +163,6 @@ margin: none;
 {
     background-color: #2E236C ;
 	padding: 5%;
-	text-align: justify;
 	display: block;
 	margin: 5%;
 	color: white;

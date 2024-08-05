@@ -2,6 +2,7 @@
 title = 'Life is like a video game'
 date = 2024-08-01T15:39:07
 draft = false
+type = "post"
 +++
 
 

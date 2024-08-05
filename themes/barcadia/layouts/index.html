@@ -15,7 +15,7 @@
 				
 				<div class="contentcolumnmain">
 					
-		{{ range .Site.RegularPages }}
+		{{ range where .Site.RegularPages.ByTitle "Type" "post" }}
 		<div class="contentbox">
   <h1>
 		{{ .LinkTitle }} 
