@@ -47,6 +47,16 @@ img.banner{
 	width: 50%;
 }
 
+img{
+	display: inline-block;
+	margin: 3%;
+	text-align:center;
+	height: 200px;
+	width: auto;
+	border-radius: 25px;
+	border-style:double;
+}
+
 body{
 	background-image: url("https://res.cloudinary.com/dteak3qsn/image/upload/v1721168331/synthwave_tuudpa.png");
 	background-size:cover; 
@@ -166,11 +176,13 @@ margin: none;
 	display: block;
 	margin: 5%;
 	color: white;
+	text-align: center;
 	text-shadow: 1px 1px #000000;
 	vertical-align: top;
 	font-family: "main";
 	box-shadow: 5px 5px #000000;
 	border-radius: 25px;
+	float: center;
 	width: 75%;
 	
 }
