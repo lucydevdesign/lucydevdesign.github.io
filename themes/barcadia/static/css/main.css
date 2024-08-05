@@ -57,6 +57,16 @@ img{
 	border-style:double;
 }
 
+img.blogimage{
+	display: inline-block;
+	margin: 3%;
+	text-align:center;
+	height:500px;
+	width: auto;
+	border-radius: 25px;
+	border-style:double;
+}
+
 body{
 	background-image: url("https://res.cloudinary.com/dteak3qsn/image/upload/v1721168331/synthwave_tuudpa.png");
 	background-size:cover; 
@@ -154,7 +164,6 @@ margin: none;
 {
 	background-color: #2E236C ;
 	padding: 5%;
-	text-align: justify;
 	display: block;
 	margin: 5%;
 	color: white;
@@ -205,6 +214,16 @@ h1
 }
 
 @media only screen and (max-width: 1000px){
+img{
+	display: inline-block;
+	margin: 3%;
+	text-align:center;
+	height: 150px;
+	width: auto;
+	float:center;
+	border-radius: 25px;
+	border-style:double;
+}
 	.contentrow {
 		display: block;
 		
